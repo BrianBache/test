@@ -19,3 +19,6 @@
 1. Add or change code/content as you need.
 1. To make things easier for __*Future*__ _You_, Click the __Commit Changes__ button early and often. Even with the original addition of content, try to make small additions or changes.
 1. The more code or content you have, the longer it can take for GitHub to render. It may take as long as ten minutes sometimes, so, be patient.
+
+## Add a file
+
