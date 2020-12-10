@@ -16,3 +16,4 @@
 
 1. From your repo page choose __Settings__ and scroll down to __GitHub Pages__ again.
 1. Click the __Choose a theme__ button. Under the header you will see a row of themes. Click on each one to display it on the current page and see how it appears. Choose the one you like and click the __Select Theme__ button. This will take you back to the __Code__ page for your repo with the __Edit file__ tab open and the theme's content displayed in the edit field. *Any content from the original creation of your repo page will have been overwritten.
+1. Add or change code/content as you need.
