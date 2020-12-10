@@ -10,3 +10,4 @@
 1. Click the __None Button__ and choose __Main__, then click save.
 1. Scroll back down to __GitHub Pages__ and copy the link to your new repo page.
 1. Hit the back button on your browser or scroll up and click on __Code__. This will take you back to your new repo page.
+1. Click the __Gear Icon__ next to __About__. In the pop-up window that appears, paste your link in the __Website__ box and click __Save Changes__. *At this point,you will need to save any content you may have written in the edit field if you want or need to keep it. Copy and paste it into a text file for safe keeping. Otherwise continue to the next section.
