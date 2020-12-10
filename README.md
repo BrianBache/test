@@ -26,7 +26,7 @@
 1. Click on the __Add a file__ button.
 1. Choose __Create new file__.
 1. Name the file.  *Whatever you want*.md  __It Is Very Important To Remember To Add The .md File Type!!__
-1. How to add a file and link to it will be in the new file I added.
+1. Instructions on _"How to add a file and link to it"_ will be in the new file I added.
 
 [Click Here To See the New File] ()
 
