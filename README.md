@@ -9,3 +9,4 @@
 1. You will be taken to the page showing your new repo. Click __Settings__ and scroll down to __GitHub Pages__.
 1. Click the __None Button__ and choose __Main__, then click save.
 1. Scroll back down to __GitHub Pages__ and copy the link to your new repo page.
+1. Hit the back button on your browser or scroll up and click on __Code__. This will take you back to your new repo page.
