@@ -3,3 +3,4 @@
 ## Create the Repository
 
 1. On your GitHub main profile page, click on the __Repositories__ tab/Link
+1. Click the __New__ button or the (+) in the header bar next to your profile pic/avatar and select __New Repository__
