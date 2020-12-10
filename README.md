@@ -13,3 +13,5 @@
 1. Click the __Gear Icon__ next to __About__. In the pop-up window that appears, paste your link in the __Website__ box and click __Save Changes__. *At this point,you will need to save any content you may have written in the edit field if you want or need to keep it. Copy and paste it into a text file for safe keeping. Otherwise continue to the next section.
 
 ## Choose a theme for your page
+
+1. From your repo page choose __Settings__ and scroll down to __GitHub Pages__ again.
