@@ -7,3 +7,4 @@
 1. In the box under __Repository Name__ type in the name for your repository (repo).
 1. Public is selected by default. Select __Add README file__ and click __Create Repository__ button.
 1. You will be taken to the page showing your new repo. Click __Settings__ and scroll down to __GitHub Pages__.
+1. Click the __None Button__ and choose __Main__, then click save.
