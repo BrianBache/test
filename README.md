@@ -23,3 +23,4 @@
 ## Add a file
 
 1. Go back to your repository page for the repo page you are working on. (The one that displays the Markdown Version of your repo page)
+1. Click on the __Add a file__ button.
