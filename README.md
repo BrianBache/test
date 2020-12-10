@@ -25,4 +25,4 @@
 1. Go back to your repository page for the repo page you are working on. (The one that displays the Markdown Version of your repo page)
 1. Click on the __Add a file__ button.
 1. Choose __Create new file__.
-1. Name the file.
+1. Name the file.  *Whatever you want*.md  __It Is Very Important To Remember To Add The .md File Type!!__
